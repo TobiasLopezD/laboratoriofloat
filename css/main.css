@@ -12,16 +12,16 @@ html{
 }
 
 img{
-    width: 30%;
+    width: 100%;
 
 }
 
 
 .imagen{
     width: 25%;
-    height: 20%;
-    border: 1px solid black;
+    box-shadow: border-box ;
     float: left;
+    padding: 1em;
     
 }
 
